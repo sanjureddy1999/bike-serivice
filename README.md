@@ -1,6 +1,6 @@
 # Online-Guest-House-Room-Booking-System-CartRabbit
 
-[**CLICK HERE FOR DEMO**]
+[**CLICK HERE FOR DEMO**](https://nitk-ghbs.herokuapp.com/)
 
 Following is the Username and Password for Loging Into the website.
 
